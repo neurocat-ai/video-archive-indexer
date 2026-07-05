@@ -1,0 +1,20 @@
+# Secrets
+.env
+credentials/*.json
+!credentials/.gitkeep
+
+# Processing results
+data/
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# macOS
+.DS_Store
